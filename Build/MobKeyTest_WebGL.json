@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MobileKeyboardTest",
+"dataUrl": "MobKeyTest_WebGL.data.unityweb",
+"asmCodeUrl": "MobKeyTest_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "MobKeyTest_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "MobKeyTest_WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
