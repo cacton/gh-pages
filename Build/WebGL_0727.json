@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "3DGraphView_unity5.6",
+"dataUrl": "WebGL_0727.data.unityweb",
+"asmCodeUrl": "WebGL_0727.asm.code.unityweb",
+"asmMemoryUrl": "WebGL_0727.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL_0727.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
